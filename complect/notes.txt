@@ -1,0 +1,3 @@
+Complect notes
+
+Do thing about beliefs being a lazy evaluation of knowledge - a stop evaluation on an infinite tree. Beleifs should be axiomatic. Link this with complexity via explanation of hueristic evaluation of huge spaces via chunking.
