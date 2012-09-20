@@ -1,0 +1,67 @@
+A Long Blink
+
+	Everyone's memories are stored online, in a system called the Memorial Processor. Memories stored there contain far more data than biological memory would retain. Implants are installed at birth. Memories that were not made personally can be recalled by, say, trying to remember what the traffic was like outside your office a moment ago, or what the news just broadcast was. Audio/Video feeds of all sorts are available to be 'remembered' by anyone connected to the Memorial Processor.
+	Communication between members of the upper class can be accomplished by alternated recollection of a non-existent conversation in practically real time, effectively using a shared memory space to message each other. Members of he lower class are only able to recall broadcasts. This is to prevent them from organizing. They are kept complacent with memories much like films, created by actors skilled at making memories of faked situations, pornographic memories, etcetera.
+ 	You are John Stanton, caretaker of your city's Memorial Processor. You are suddenly interrupted while going through your day with a pre-recorded emergency notification that a problematic pattern has been detected in the Memorial Processor. The recording is vague, but supplies enough information to explain that you should go figure out what's up, likely by questioning people. Here is a rough draft of a possible first encounter:
+ 	
+ A man was standing inside at the platform of the train system. When I asked him what's wrong he said,
+	"I... I walked through the turnstiles, then I bought my ticket, then I got out my wallet, then I saw this, this black thing, this towering black box, then I... I walked through the turnstiles, then I bought my ticket, then I got..."
+	I stopped him. "That makes no sense. Why did you go back?" He looked confused.
+"No, no... I... Let me try to remember... so then I got out my wallet, then I saw this huge black monolith, then..."
+	I interrupted him. "Wait. You mean that you got out your wallet, then paid for your ticket, then walked through the turnstiles, right? Just once? And I think you must have imagined the black box."
+	He seemed to snap out of his stupor, looking confused. "Ah, wait - that makes sense. Jeez, I've just been going over it in my mind. Why did I remember it in that order?" Awareness continued settling into his face. "What the hell? How long have I been standing here anyway?"
+	"I don't know, buddy. You were just standing here motionless when I showed up. Something's up with the Network."
+	"Jesus, I'm getting the fuck out of here." He looked around furtively. "This is creepy. The city seems dead."
+	"Maybe just lost in thought." I replied.
+	"See you, man. I'm going home. Wanna check on the wife. I've got a bad feeling."
+	"Hey," I called after him as he jogged off. He turned back to look at me.
+	"What?"
+	"If your wife isn't responsive, if she seems to be daydreaming or thinking too hard, DO NOT mess with her. I have a feeling that this thing has to be untangled in a somewhat elegant fashion. I probably got lucky with you. This is the sort of thing that could break a persons mind. Dangerous shit." He looked worried.
+	"Alright." He looked a little confused then. "I... I can't remember the video feed from the front of the house."
+	"The shared audio-video infrastructure memory space has been shut down for now. You'll only have access to your personal memories stored online. It's one of the automatic safeguards in place to keep people safe." He looked at me a little oddly then.
+	"How do you know about this stuff?" As I turned to continue on my way, I replied
+	"I'm one of those safeguards."
+	
+	The key, the narration will reveal, seems to be helping the man to reconstruct his memory to remove the loop caused by the memory of the black monolith. This eventually will be revealed to be a malicious memory crafted by a hacker. The main objective of the game will be to help a series of people (some in groups) reconstruct their memories properly. The black monolith represents a loop-back memory: a memory that references back a few logical steps in the memory of a person. The normal process of receding into memory to trace through a series of actions is coerced into an infinite closed loop by this connection back. Because people now store all of their memories online, this escher-esque memory is possible.
+	The memory is like a far worse version of getting a song stuck in your head. When music is stuck in your head, it's because you've forgotten part of the song, and your mind erroneously tries to fill in the gap by jumping backward to a part that sounds the same, causing an infinite loop. The sure-fire way to get a song out of your  head is to listen to it, healing your memory of it. Walking people through their scattered memories of their actions has the same effect.
+	Once freed, people will be able to give you some clues, let you through locked doors, etcetera. You'll figure out that the memories were inserted by an anonymous computer hacker who is trying to destroy the Memorial Processor. She is ideologically motivated, wanting to free lower class by equalizing everyone. She wants to return to a world where people have a reason to try to create their own beautiful memories. She has been using the time created by the loop to break into the building housing the Memorial Processor. The last five minutes of the game could be you racing against the clock to stop her from destroying the system.
+	What she does not know, that you do, is that people are now dependent on the Memorial Processor. Most people have completely lost the ability to store their own memories. The rest of the brain, finding the Memorial Processor to be a far more voluminous storage space, has delegated organic long-term memory to the containment of primitive and violent functions. If the Memorial Processor was turned off, people would be at best demented and at worst vicious animals. 
+	You, being caretaker, have been conditioned to use primarily your organic memory, in case of situations precisely like these. The last dialog will between you and her, trying to stop her from blowing up both of you in her fervour. There are four possibilities. 
+1. She detonates the bomb and everything is pretty much bad.
+2. You wipe her memory (you have this power as Caretaker) which basically destroys her mind.
+3. You convince her to give up and arrest her. You fix the problem. Everything goes back to normal.
+4. You are moved by her ideas, and you agree to work with her to find a way to ease people off of the Memorial Processor in the long term. You report the loop as a glitch and begin a conspiracy.
+
+The beauty of this memory reconstruction puzzle mechanism is that it can be built very easily within the NWN engine. The choice trees for the puzzles can likely even be static: they'll just be so large that brute-forcing them will take far too long and won't be any fun. Easier puzzles could have all of the memories available by talking to the NPCs, while harder ones could involve finding information in the environment to add to the possible options. Possible puzzles could include:
+
+- Figuring out the how a poker-game played out in when you find the men frozen over their cards and chips.
+
+- Sorting out the events of a car accident that happened just before the Black Monolith memory broadcast occurred.
+
+- Understanding a transaction between a druggie and an illicit memory dealer (how much was paid, who got what in what order, what the product was)
+
+	The narration will provide the context required to understand what's going on: the background knowledge a Caretaker of the Memorial Processor would have. This, coupled with the interesting memories people could have, will enable the creation of a rich game-world and story. A Noire style will still work, as it's still an investigation of a mysterious event. The fact that characters just standing around is 'natural' given the circumstances fits the nature of the game engine as well.
+
+Shared memory is like this: you try to 'remember' what the traffic is like on a specific street, and you can tap into memories formed from video-cameras on that street. Real-time data streaming to the mind is not yet possible, but accessing stored memory is.
+
+People form memories in both the mind and in the cloud network now. By introducing feedback loops into memories, it's possible to trap a person in a closed circuit of memory formation for an arbitrary amount of time.
+
+Through dream-logic dialogs with people, you can uncover information tracing the offending memory.
+
+Maybe replaying a memory is the puzzle: determine a sequence of events from clues to establish an order. This is nicely emergent.
+
+The loopback memory ties the last 30 seconds of the mind in a knot by replacing the last formed memory with a loopback. The puzzle is to reconstruct the memory that was replaced to break the cycle, and free the mind to release the 'payload' memories that follow it, providing clues based on the knowledge of the individuals that made the able to create semantic meaning from it.
+
+You're a technician - you can be unlinked. You've been conditioned, spend much of your time unlinked. You have a clean separation. Other people can't - they'd be functionally demented and terrible shit would likely go down in the confusion. A race against the clock on system shutdown in the end? A poor deluded person who believes they're saving everyone from the hive-mind, a choice.
+
+The lower classes are not allowed to share memories between minds. They're just allowed access to the essential infrastructure feeds and the entertainment repositories. Professional memories created by actors.
+
+
+
+	
+	
+Ideas for puzzles:
+
+Analyze a poker game between four men to reconstruct the order of play.
+
+Figure out how an
