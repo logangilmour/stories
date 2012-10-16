@@ -1,0 +1,95 @@
+=== Conversation with the robot bar-tender. ===
+
+Robot Bar-tender: Hello there Mr. Deckard sir. Will it be the usual?
+
+Deckard: I'm tired today, Robs.
+
+Robot Bar Tender: You do seem somewhat fatigued today sir.
+
+Deckard: Quit it with that "Sir" crap, Robs.
+
+Robot Bar-tender: I am programmed to address all patrons in accordance with societal protocals Mr. Deckard sir.
+
+Deckard: Don't be cheeky with me, Robs.
+
+Robot Bar-tender: I am sorry if I have offended you sir. I am simply trying to follow proper protocols.
+
+Deckard: I know, Robs. I'm just messing with you.
+
+Robot Bar-tender: Thank you sir. I am highly sensitive to human emotive qualities as a part of my function. I detect that you are feeling what could be called "low". Would you like me to your usual drink a double?
+
+Deckard: That's probably for the best. It's been a long day. I had to browse through a bunch of people's digital memories while I was tracking down a minor glitch in the south-east district. You know what I realized? People are depressingly boring these days, Robs.
+
+Robot Bar-tender: I'm sorry to hear that, sir. Here is your double Gin and Tonic and Xanax. Thank-you for choosing Uncle Dave's PharmaPub!
+
+=== Jensen Radio Conversation ===
+Jensen: Deckard! Can you hear me?
+
+Deckard: Jensen? Yeah - yeah I can. Why didn't you just open up a memory link?
+
+Jensen: I can't for some reason. I'm locked out of the system. Huh. First time I've ever used the backup radios.
+
+Deckard: Me too, I guess. What's up?
+
+Jensen: The security room is in lockdown. I'm trapped, and I can't access anything. Could you check the status of the Memory Storage Units real quick?
+
+Deckard: ... Huh. I can't access it either. Can't store new memories or access old ones. I didn't even notice - I usually go pure biological in the evenings. How long have things been screwed for?
+
+Jensen: About five minutes.
+
+Deckard: Alright. I guess my day isn't over yet. Try to figure out what's going on - I'll be there soon. I'm at the Uncle Dave's right by the East Parker Station. If I'm quick, I can catch the 6:45. Just let me toss back this drink ... there. On my way.
+
+Jensen: Thanks Buddy! See you in a bit.
+
+Deckard: See you.
+
+=== Walking Narration ===
+
+I guess that's how it all started. My job's normally pretty tame. I go in, check that everything's working smoothly, maybe order a new storage units if the population's grown enough. Storing everyone's memories takes up a suprising ammount of space. We've got a whole highrise full of  storage, and if people keep insisting on holding on to their dead relatives memories, we'll probably be putting up another one pretty soon. I don't get it myself. I figure, if someone's gone, they're gone. No use keeping around ghosts - you'll just lose sleep.
+
+=== Inside train station ===
+
+Ticket Vendor: Attention: The train will be departing in 1 minute.
+=== Narration ===
+
+So I'd be walking back to work. Great. I figured that the fastest way would be through the slums.
+
+=== Guy in the way of leaving ===
+
+Deckard: Hey, any idea what's up with the train?
+
+Guy: I... then I bought my ticket, then I walked down the street, then I saw the train arrive, then I entered the train station... then... then... I bought my -
+
+Deckard: Woah, wait, that doen't make sense. What happened first?
+
+Guy: - bought my ticket, then I walked down the street, then I saw the train arrive, then I entered the -
+
+Deckard: Hey buddy, you OK?
+
+Guy: - train station, then I... then I bought my ticket, then -
+
+Deckard: No, no, you must have walked down the street to the train station, and then bought your ticket before you saw it arrive, right?
+
+Guy: What? Woah, what... what just happened?
+
+Deckard: Don't worry about it, bud. You were just confused.
+
+Guy: No... I felt trapped, or... lost maybe. In my thoughts. Just tracing through the last few things I remembered. How long have I been here?
+
+Deckard: No idea.
+
+Guy: Jesus, that was weird. Holy shit, the train's on fire! I'm out of here!*runs off-level*
+
+=== Narration ===
+
+Strange. I started worrying that the system lockout Jensen and I were dealing with might be the result of a larger problem. Could be a safeguard in place to make sure we weren't affected by whatever had gotten to that guy. I figured I'd better hurry on through. It could be a long night. Just my luck. I hoped this one wasn't my fault.
+
+=== Security Guard ===
+
+Deckard: Hey, could you let me into the slums? I've got to cut through. The train's down.
+
+Blah blah blah bla
+
+=== Narration ===
+
+I started to get an idea of what the problem might be. Both this guy, and the guy in the train station seemed to have their last few memories all out of order. They were stuck in a loop of I fragmented thoughts, their minds totally occupied trying to make sense of what they'd just experienced. I still didn't know what was causing it, but it seemed like helping that other guy to re-build his memories correctly had snapped him out of it. Kind of like listening to a song that's stuck in your head to get it out. I figured that if I could sort out the order of the last few things that the security guard had seen, then he'd be freed up and could open the gate for me. I started trying to piece it together.
