@@ -13,7 +13,7 @@ Robot Bar Tender: You do seem somewhat fatigued today sir.
 Deckard: Quit it with that "Sir" crap.
 or: It's been a long day.
 
-Robot Bar-tender: I am programmed to address all patrons in accordance with societal protocals Mr. Deckard sir.
+Robot Bar-tender: I am programmed to address all patrons in accordance with societal protocols Mr. Deckard sir.
 
 Deckard: Don't be cheeky with me, Robs.
 
@@ -53,7 +53,7 @@ Jensen: The security room is in lockdown. I'm trapped, and I can't access anythi
 
 Deckard: Have you tried turning it off and then on again?
 
-Jensen: I'm sure that would go over well with everyone in the city - nothing like a hard-reset to toss a bucket of ice-water on your brain. I can't do it from the scuity room anyway. C'mon man, help me out.
+Jensen: I'm sure that would go over well with everyone in the city - nothing like a hard-reset to toss a bucket of ice-water on your brain. I can't do it from the security room anyway. C'mon man, help me out.
 
 Deckard: ... Huh. I can't access anything either. Can't store new memories or access old ones. I didn't even notice - I usually go pure biological in the evenings. How long have things been screwed for?
 
@@ -67,7 +67,7 @@ Deckard: See you.
 
 === Walking Narration ===
 
-I guess that's how it all started. My job's normally pretty tame. I go in, check that everything's working smoothly, maybe order a new storage units if the population's grown enough. Storing everyone's memories takes up a suprising ammount of space. We've got a whole highrise full of  storage, and if people keep insisting on holding on to their dead relatives memories, we'll probably be putting up another one pretty soon. I don't get it myself. I figure, if someone's gone, they're gone. No use keeping around ghosts - you'll just lose sleep.
+I guess that's how it all started. My job's normally pretty tame. I go in, check that everything's working smoothly, maybe order a new storage units if the population's grown enough. Storing everyone's memories takes up a surprising amount of space. We've got a whole high-rise full of  storage, and if people keep insisting on holding on to their dead relatives memories, we'll probably be putting up another one pretty soon. I don't get it myself. I figure, if someone's gone, they're gone. No use keeping around ghosts - you'll just lose sleep.
 
 === Inside train station ===
 
@@ -85,7 +85,7 @@ Deckard: Hey, any idea what just happened to the train?
 
 Guy: I... then I bought my ticket, then I walked down the street, then I saw the train arrive, then I entered the train station... then... then... I bought my -
 
-Deckard: Woah, wait, that doen't make sense. What happened first?
+Deckard: Woah, wait, that doesn't make sense. What happened first?
 
 Guy: - bought my ticket, then I walked down the street, then I saw the train arrive, then I entered the -
 
@@ -111,11 +111,48 @@ Strange. I was beginning worrying that the system lockout Jensen and I were deal
 
 === Security Guard ===
 
-Deckard: Hey, could you let me into the slums? I've got to cut through. The train's down.
+Security Guard: So I grabbed my helmet from the ledge and put it on...
 
-Blah blah blah blah something about a car accident and what order the people came by in. Maybe he left his booth to check if everyone was ok.
+Then I heard a thud followed immediately by a crash...
 
+Then I saw a green hover-car go by...
+
+Then I left the booth to investigate....
+
+Then I saw a black hover-car go by...
+
+Then I quickly tossed back my coffee...
+
+Deckard: Damn. You're stuck in a loop like the other guy.
 
 === Narration ===
 
 I was starting to understand the nature of the problem. Both this guy, and the guy in the train station seemed to have their last few memories all out of order. They were stuck in a loop of I fragmented thoughts, their minds totally occupied trying to make sense of what they'd just experienced. I still didn't know what was causing it, but it seemed like helping that other guy to re-build his memories correctly had snapped him out of it. Kind of like listening to a song that's stuck in your head to get it out. I figured that if I could sort out the order of the last few things that the security guard had seen and done, then he'd be freed up and could open the gate for me. I started trying to piece it together. It was fun, almost like a game.
+
+=== PUZZLE ===
+
+Security Guard: And then...
+
+Deckard: Alright, listen carefully.
+
+Security Guard: Then I... I...
+
+[PUZZLIN' STUFF]
+
+=== DONE ===
+
+Security Guard: Woah... what... what just happened?
+
+Deckard: Welcome back to reality, buddy. You were stuck in a memory loop.
+
+Security Guard: What?
+
+Deckard: I'm the caretaker for the machine that stores all of our memories - the Memorial Processor. Something's happened that has trapped people inside of their memories. Could you let me into the slums? I've got to cut through to go fix this - the train's down.
+
+Security Guard: I... damn. Yeah, sure. I feel strange, man. You don't think there's going to be any lasting effects, do you?
+
+Deckard: My guess would be no, but I'm not really qualified to give medical advice. Could you let me through please? This really needs to be dealt with.
+
+Security Guard: Sure, sure.
+
+* Opens door. *
