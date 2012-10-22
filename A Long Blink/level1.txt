@@ -156,3 +156,37 @@ Deckard: My guess would be no, but I'm not really qualified to give medical advi
 Security Guard: Sure, sure.
 
 * Opens door. *
+
+=== Narration ===
+I didn't have time to talk any more.
+
+=== Narration ===
+I found myself wandering off in the wrong direction. Blaming it on the drink, I headed back.
+
+=== Narration ===
+Looked like I wasn't going to get through the checkpoint without the security guard's help.
+
+=== Narration ===
+Alright. It was time to go back to work - off to the train station.
+
+
+Security Guard skips to conversation and narration 2
+No "wish I had another drink"
+Guy doesn't jump
+No narration when exiting trigger
+Rename to slums gate
+Jensen should dissapear after conversation
+Sort out attacking people
+
+Journal shit
+Make it obvious we need to go to the train station
+Exit sign in train station
+make it so security conversation unavailable until after train
+ensure narration is not gay
+move trainstation narration outside
+defuck train transition
+Add fixed sign for pub
+add extra narration
+remove noise from pub
+guard no talkee until been downstairs
+No time to talk for guard until later
