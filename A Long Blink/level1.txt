@@ -3,23 +3,24 @@
 As I reached the counter, the robotic bartender greeted me with a good approximation of a smile.
 
 === Conversation with the robot bar-tender. ===
-He knows my drink - I'm there too often.
+I'm around often enough that he knows my drink.
+
 >Robot Bar-tender: Hello there Mr. Deckard sir. Will it be the usual?
 
 
->I told him I was tired. He agreed.
-Deckard: I'm tired today, Robs.
+I told him I was tired. He agreed.
+>Deckard: I'm tired today, Robs.
 
 Robot Bar Tender: You do seem somewhat fatigued today sir.
 
 I figured I'd mess with him a little - something to do. 
 >Deckard: Quit it with that "Sir" crap.
-He was picked up on my low spirits, suggested I double up on my, uh, "medication".
+He picked up on my low spirits, suggested I double up on my, uh, "medication".
 >or: It's been a long day.
 
 >Robot Bar-tender: I am programmed to address all patrons in accordance with societal protocols Mr. Deckard sir.
 
-I decided to take it a little farther. He was predictably appologetic.
+I kept it up a little longer
 >Deckard: Don't be cheeky with me, Robs.
 
 >Robot Bar-tender: I am sorry if I have offended you sir. I am simply trying to follow proper protocols.
@@ -35,7 +36,7 @@ I let him in on the game. Confusing an android is too easy. Probably says someth
 
 >Robot Bar-tender: I am highly sensitive to human emotive qualities as a part of my function. I detect that you are feeling what could be called "low". Would you like me to your usual a double sir?
 
-I figured that to be a fine suggestion. I'd had a long day looking through people's boring-ass memories while I tracked down a glitch in the system. He thanked me as he handed me my double Gin and Tonic and Xanax.
+I figured that to be a fine suggestion. I'd had a long day looking through people's boring memories while I tracked down a glitch in the system. He thanked me as he handed me my double Gin and Tonic and Xanax.
 
 >Deckard: I like the sounds of that. I had to browse through a bunch of people's digital memories today while I was tracking down a glitch. You know what I realized, Robs? People are depressingly boring these days.
 
@@ -43,7 +44,7 @@ I figured that to be a fine suggestion. I'd had a long day looking through peopl
 
 === Narration for if you talk to other patrons ===
 
-1. The other people in the bar seemed far-off, lost in thought. At the time, I figured maybe they were all just on some new tranquilizer.
+1. Everyone else was spaced out. At the time, I figured 'eh', must be some hot new tranquilizer or something.
 
 2. Yep. Still unresponsive.
 
@@ -54,13 +55,16 @@ or go back into the bar ===
 
 1. I wished I had time for another drink.
 
-2. Damn. I really wanted another drink. Too bad there wasn't time.
+2. I figured, one more... couldn't hurt - No. no. There was no time.
+
+3. God damn it I just wanted another drink! Fucking problem could go fix itself.
 
 === Jensen Radio Conversation ===
-My buddy Jensen's voice came on to my radio. We're both care-takers for the Wireless memory storage system.
+My buddy Jensen's voice came on to my radio. We're both care-takers for the city's Wireless memory storage system.
+
 >Jensen: Deckard! Can you hear me?
 
-I wondered why he would bother with using the old radios. He told me he couldn't, he was locked out of the memory-based communication system.
+I wondered why he was bothering with the old radios. Apparently, he had to - he was locked out of the memory-link communication system.
 
 >Deckard: Jensen? Yeah - yeah I can. Why didn't you just open up a memory link?
 
@@ -71,7 +75,7 @@ Deckard: What's up?
 
 >Jensen: The security room is in lockdown. I'm trapped, and I can't access anything. Could you check the status of the Memory Storage Units real quick?
 
-I figured I might as well fuck with him a little, captive audience and all.
+I figured I was pretty much obligated to fuck with him a little bit, captive audience and all.
 >Deckard: Have you tried turning it off and then on again?
 
 >Jensen: I'm sure that would go over well with everyone in the city - nothing like a hard-reset to toss a bucket of ice-water on your brain. I can't do it from the security room anyway. C'mon man, help me out.
@@ -81,7 +85,7 @@ I concentrated for a moment, but there was no sensation of connection.
 
 >Jensen: About five minutes.
 
-If I hurried, I could catch the 6:45.
+I'd have to go in. If I hurried, I'd catch the 6:45.
 
 >Deckard: Try to figure out what's going on - I'll be there soon. Just let me toss back this drink ... there. 
 
@@ -89,13 +93,13 @@ Alright. It was time to go back to work - off to the train station.
 >Jensen: Thanks Buddy! See you in a bit.
 >Deckard: Yeah man.
 
-=== Narration ===
-
 === Pass accident. ===
-There was a bit of a fender bender outside.
+There'd been a bit of an accident outside the pub.
+
+*Car Accident* I thought about my ex-wife.
 
 === Inside train station ===
-An announcement came on that the train was leaving. Shit.
+An announcement came on that the train was leaving. Missed it.
 
 Ticket Vendor: Attention: The train is departing. *Train catches fire explosively* Attention: The train has been delayed.
 
@@ -108,19 +112,21 @@ So I'd be walking back to work. Great.
 The repairmain seemed strangely unfazed by the explosion of fire. 
 
 === Talk to him ===
-He was dazed and muttering.
 >Train Guy: grabbing replacement coolant... then... I was entering the...
 
-In fact, he barely seemed to know I was there.
+He was dazed and muttering something.
 >Jensen: Hey buddy, you know what's up with the train?
 >Train Guy: ... code 1134 ... then...
 
-Scanning him, it seemed he was stuck in a fragment loop. That's when a glitch messes up someones last few digital memories, putting them in the wrong order. The mind gets lost trying to rationalize the lack of causality.
-
+When I scanned him, it turned out he was stuck in a fragment loop. That's when a glitch messes up someones last few digital memories, puts them in the wrong order.
 >Jensen: [Scan him with memory debugger]
-> Train Guy: *goes through list*
+> Train Guy: Then I... then I... wait but then...
 
-I jotted down his last few memories in my journal. Since I was locked out of the system, I thought that maybe walking him through the correct order of his memories might snap him out of it. I started looking around for clues. It was fun, almost like a game.
+The mind gets lost trying to rationalize the lack of causality. This guy would just going over his last few memories until the order was repaired.
+>Jensen: Hey buddy, could you list off your last few memories for me please? 
+>Guy *goes through list*
+
+Normally I would just jack in and fix the glitch, but since I was locked out, I figured I'd try vocally walking him through the correct order. It might snap him out of it. I started searching around for clues.
 
 === Puzzle ===
 
@@ -142,24 +148,26 @@ You grabbed a container of fresh coolant
 # I was entering the code 1134
 You entered the code 1134
 
-*Cabinet* There was a storage cabinet, with it's keypad showing 1134: Access denied, followed by 1137: Access granted.
+*Cabinet* There was a storage cabinet, with it's keypad showing 1134: Access denied, followed by 1137: Access granted. I wrote it all down in my journal.
 
-*puddle / footprints* There was dirty, used coolant on the floor.
+*puddle / footprints* There was dirty, used coolant on the floor. Probably came from the train.
 
 === Done ===
 The guy came to, freaked out, and took off.
 >Jensen: You alright now?
-
 >Train Guy: Jesus, that was weird. Holy shit, the train's on fire! I'm out of here! *runs off-level*
 
+*sign* Fixing people's memories is thankless work - they never remember it. 
 > Jensen: You're welcome.
-
-*sign* Fixing people's memories is thankless work - they never remember it.
 
 If I took the elevator up, I'd come out on the other side of the accident, and I could take a shortcut through the slums.
 
 === Security Guard ===
 
+He was looking suspiciously vacant.
+
+>Security Guard: Then... I... wait, that can't be right...
+>Jensen: Hey, could you list off the last few things you remember for me?
 
 # I heard a thud.
 You heard a thud.
@@ -186,8 +194,6 @@ Deckard: Damn.
 
 *Sandbags* Hitting the sandbags would have made for more of a thud than a crash.
 
-*Black car* The engine on the black car probably made quite a racket when it blew.
-
 === DONE ===
 
 Security Guard: Woah... what... what just happened?
@@ -196,7 +202,7 @@ He snapped out of it.
 >Deckard: Welcome back to reality, buddy. You were stuck in a fragment loop.
 >Security Guard: What?
 
-There was no time to waste. He was understandably disoriented.
+He was understandably disoriented, but there was no time to waste. Fragment loops are typically rare -  Two so close together didn't bode well.
 >Deckard: Could you let me into the slums? I've got to cut through - the train's down.
 >Security Guard: I... damn. Yeah, sure. I feel strange, man. You don't think there's going to be any lasting effects, do you?
 
